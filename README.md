@@ -3,6 +3,8 @@
 
 Hardware Specifications of the [Tonino Color Meter](http://my-tonino.com)
 
+
+
 ![](http://my-tonino.com/img/tonino-fritzing.png)
 
 
@@ -17,3 +19,6 @@ Components
 Version History
 ---------------
 - v1.0.0 Buggy initial release
+
+
+![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
