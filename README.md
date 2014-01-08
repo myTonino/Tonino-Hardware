@@ -5,7 +5,7 @@ Hardware Specifications of the [Tonino Color Meter](http://my-tonino.com)
 
 
 
-![](http://my-tonino.com/img/tonino-fritzing.png?raw=true)
+![](img/tonino-fritzing.png?raw=true)
 
 
 Components
