@@ -19,6 +19,7 @@ Components
 Version History
 ---------------
 - v1.0.0 Buggy initial release
+  
+  
 
-
-![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
+[![](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
