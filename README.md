@@ -6,6 +6,7 @@ Hardware Specifications of the [Tonino Color Meter](http://my-tonino.com)
 
 ![](img/tonino-fritzing.png?raw=true)
 
+Designs and images created with [Fritzing](http://fritzing.org).
 
 Components
 ----------
