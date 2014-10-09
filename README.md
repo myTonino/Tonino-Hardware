@@ -12,7 +12,7 @@ Components
 ----------
 
 - [DFRobot TCS3200 Color Sensor](http://www.dfrobot.com/index.php?route=product/product&product_id=540)
-- [DFRobot DFRduino Nano](http://www.dfrobot.com/index.php?route=product/product&product_id=67atmega-328.html)
+- [DFRobot DFRduino Nano](http://www.dfrobot.com/index.php?route=product/product&product_id=67)
 - [Adafruit 0.56 4-Digit 7-Segment Display w/I2C Backpack](http://www.adafruit.com/products/879)
 
 Tonino Resources
